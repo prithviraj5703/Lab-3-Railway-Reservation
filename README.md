@@ -18,7 +18,32 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+Use Case Diagram:
 
+![image](https://github.com/prithviraj5703/Lab-3-Railway-Reservation/assets/121418418/4a724199-b3c0-4b85-99ee-2e676d388b9b)
+
+Class Diagram:
+
+![image](https://github.com/prithviraj5703/Lab-3-Railway-Reservation/assets/121418418/4402adbf-0dd6-4ef8-8013-d781d2dcd9a6)
+
+Sequence Diagram:
+
+![image](https://github.com/prithviraj5703/Lab-3-Railway-Reservation/assets/121418418/31079262-34ac-44bd-b394-7857d34e1fc7)
+
+
+Collaboration Diagram:
+
+![image](https://github.com/prithviraj5703/Lab-3-Railway-Reservation/assets/121418418/c25fc08e-475c-4583-9897-c627d863dcdb)
+
+
+State Chart Diagram:
+
+![image](https://github.com/prithviraj5703/Lab-3-Railway-Reservation/assets/121418418/b56fdc0b-fda8-4fdd-9a50-444d46e4cb7c)
+
+
+Activity Diagram:
+
+![image](https://github.com/prithviraj5703/Lab-3-Railway-Reservation/assets/121418418/4c15fc02-9513-416a-8946-a7ab227374c4)
 
 
 ### RESULT:
